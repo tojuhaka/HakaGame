@@ -1,0 +1,32 @@
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\puppy.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\explosions.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\helpbackground.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\tiletexturetest.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\HakaGame Demo Game.exe
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\HakaGame Demo Game.pdb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\obj\x86\Debug\HakaGame Demo Game.exe
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\obj\x86\Debug\HakaGame Demo Game.pdb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\tileset2.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Sprites\malefighter.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Sprites\nuuskamuikkunen.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Fonts\Georgia.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Controls\leftarrow.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Controls\rightarrow.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\GUI\cursor.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\GUI\textbox.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\GUI\StartScreenBackground.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\GUI\blackbackground.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\tilesetTexture1.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Tileset\landscape.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Tileset\tileset1.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\grass.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\structuretest6.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\castle.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\grass3.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\house.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\tree.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\waterset.xnb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\HakaGame Demo Game.exe.config

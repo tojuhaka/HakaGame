@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is a tileset file for TaT Tile Map Editor. -->
+<!-- This file is used to describe all the tiles and animations. -->
+<!-- This file is common for all the maps in the project. -->
+
+<tilesetFile version="1.0.0" animations="0" tiles="6">
+	<tilesets>
+		<tileset file="structuretest6.png" tileWidth="32" tileHeight="32"/>
+	</tilesets>
+	<tiles>
+		<imageTile id="1" width="32" height="32">
+			<image file="grass.png"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</imageTile>
+		<tilesetTile id="2" width="32" height="32">
+			<tilesetImage file="structuretest6.png" posX="0" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="3" width="32" height="32">
+			<tilesetImage file="structuretest6.png" posX="32" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="4" width="32" height="32">
+			<tilesetImage file="structuretest6.png" posX="0" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="5" width="32" height="32">
+			<tilesetImage file="structuretest6.png" posX="32" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<nullTile id="6" width="32" height="32">
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</nullTile>
+	</tiles>
+</tilesetFile>

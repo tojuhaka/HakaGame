@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is a tileset file for TaT Tile Map Editor. -->
+<!-- This file is used to describe all the tiles and animations. -->
+<!-- This file is common for all the maps in the project. -->
+
+<tilesetFile version="1.0.0" animations="0" tiles="219">
+	<tilesets>
+		<tileset file="castle.png" tileWidth="32" tileHeight="32"/>
+		<tileset file="tree.png" tileWidth="32" tileHeight="32"/>
+		<tileset file="waterset.png" tileWidth="32" tileHeight="32"/>
+		<tileset file="house.png" tileWidth="32" tileHeight="32"/>
+	</tilesets>
+	<tiles>
+		<imageTile id="1" width="32" height="32">
+			<image file="grass3.png"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</imageTile>
+		<tilesetTile id="2" width="32" height="32">
+			<tilesetImage file="tree.png" posX="0" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="3" width="32" height="32">
+			<tilesetImage file="tree.png" posX="32" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="4" width="32" height="32">
+			<tilesetImage file="tree.png" posX="0" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="5" width="32" height="32">
+			<tilesetImage file="tree.png" posX="32" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="6" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="0" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="7" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="32" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="8" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="96" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="9" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="0" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="10" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="32" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="11" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="64" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="12" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="96" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="13" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="0" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="14" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="32" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="15" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="64" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="16" width="32" height="32">
+			<tilesetImage file="waterset.png" posX="96" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="17" width="32" height="32">
+			<tilesetImage file="house.png" posX="0" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="18" width="32" height="32">
+			<tilesetImage file="house.png" posX="32" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="19" width="32" height="32">
+			<tilesetImage file="house.png" posX="0" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="20" width="32" height="32">
+			<tilesetImage file="house.png" posX="32" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="21" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="22" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="23" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="24" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="25" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="26" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="27" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="28" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="29" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="30" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="31" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="32" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="33" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="0"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="34" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="35" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="36" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="37" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="38" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="39" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="40" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="41" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="42" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="43" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="44" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="45" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="46" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="32"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="47" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="48" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="49" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="50" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="51" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="52" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="53" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="54" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="55" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="56" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="57" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="58" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="59" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="64"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="60" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="61" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="62" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="63" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="64" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="65" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="66" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="67" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="68" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="69" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="70" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="71" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="72" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="96"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="73" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="74" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="75" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="76" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="77" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="78" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="79" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="80" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="81" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="82" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="83" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="84" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="85" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="128"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="86" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="87" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="88" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="89" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="90" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="91" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="92" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="93" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="94" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="95" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="96" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="97" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="98" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="160"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="99" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="100" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="101" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="102" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="103" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="104" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="105" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="106" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="107" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="108" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="109" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="110" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="111" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="192"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="112" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="113" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="114" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="115" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="116" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="117" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="118" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="119" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="120" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="121" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="122" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="123" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="124" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="224"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="125" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="126" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="127" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="128" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="256"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="129" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="130" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="131" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="132" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="133" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="134" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="135" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="136" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="137" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="256"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="138" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="139" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="140" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="141" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="288"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="142" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="143" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="144" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="145" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="146" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="147" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="148" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="149" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="150" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="288"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="151" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="152" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="153" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="154" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="155" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="156" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="157" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="320"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="158" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="159" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="160" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="161" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="162" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="163" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="320"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="164" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="352"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="165" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="352"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="166" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="352"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="167" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="352"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="168" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="352"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="169" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="352"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="170" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="352"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="171" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="352"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="172" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="352"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="173" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="352"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="174" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="352"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="175" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="352"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="176" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="352"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="177" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="384"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="178" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="384"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="179" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="384"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="180" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="384"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="181" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="384"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="182" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="384"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="183" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="384"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="184" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="384"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="185" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="384"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="186" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="384"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="187" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="384"/>
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="188" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="384"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="189" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="384"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="190" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="191" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="192" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="193" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="194" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="195" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="196" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="197" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="198" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="199" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="200" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="201" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="202" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="416"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="203" width="32" height="32">
+			<tilesetImage file="castle.png" posX="0" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="204" width="32" height="32">
+			<tilesetImage file="castle.png" posX="32" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="205" width="32" height="32">
+			<tilesetImage file="castle.png" posX="64" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="206" width="32" height="32">
+			<tilesetImage file="castle.png" posX="96" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="207" width="32" height="32">
+			<tilesetImage file="castle.png" posX="128" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="208" width="32" height="32">
+			<tilesetImage file="castle.png" posX="160" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="209" width="32" height="32">
+			<tilesetImage file="castle.png" posX="192" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="210" width="32" height="32">
+			<tilesetImage file="castle.png" posX="224" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="211" width="32" height="32">
+			<tilesetImage file="castle.png" posX="256" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="212" width="32" height="32">
+			<tilesetImage file="castle.png" posX="288" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="213" width="32" height="32">
+			<tilesetImage file="castle.png" posX="320" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="214" width="32" height="32">
+			<tilesetImage file="castle.png" posX="352" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<tilesetTile id="215" width="32" height="32">
+			<tilesetImage file="castle.png" posX="384" posY="448"/>
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</tilesetTile>
+		<nullTile id="216" width="32" height="32">
+			<collision area="lowerRightCorner"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</nullTile>
+		<nullTile id="217" width="32" height="32">
+			<collision area="lowerLeftCorner"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</nullTile>
+		<nullTile id="218" width="32" height="32">
+			<collision area="full"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</nullTile>
+		<nullTile id="219" width="32" height="32">
+			<collision area="none"/>
+			<rotate angle="0"/>
+			<flip vertically="false" horizontally="false"/>
+			<code first="none" second="none"/>
+		</nullTile>
+	</tiles>
+</tilesetFile>

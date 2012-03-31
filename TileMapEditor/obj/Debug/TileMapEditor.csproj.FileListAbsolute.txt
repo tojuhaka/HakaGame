@@ -1,0 +1,8 @@
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\TileMapEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\TileMapEditor\obj\Debug\TileMapEditor.Form1.resources
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\TileMapEditor\obj\Debug\TileMapEditor.Properties.Resources.resources
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\TileMapEditor\obj\Debug\TileMapEditor.csproj.GenerateResource.Cache
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\TileMapEditor\bin\Debug\TileMapEditor.exe
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\TileMapEditor\bin\Debug\TileMapEditor.pdb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\TileMapEditor\obj\Debug\TileMapEditor.exe
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\TileMapEditor\obj\Debug\TileMapEditor.pdb

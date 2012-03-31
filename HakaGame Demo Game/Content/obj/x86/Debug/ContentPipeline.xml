@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>puppy.bmp</Source>
+      <Name>puppy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\puppy.xnb</Output>
+      <Time>2010-10-03T01:55:13.492+03:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions.png</Source>
+      <Name>explosions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\explosions.xnb</Output>
+      <Time>2010-10-03T23:32:47.624+03:00</Time>
+    </Item>
+    <Item>
+      <Source>helpbackground.jpg</Source>
+      <Name>helpbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\helpbackground.xnb</Output>
+      <Time>2010-10-04T21:37:30.24275+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiletexturetest.png</Source>
+      <Name>tiletexturetest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\tiletexturetest.xnb</Output>
+      <Time>2010-10-05T01:54:47.32075+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\StartScreenBackground.jpg</Source>
+      <Name>GUI\StartScreenBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\GUI\StartScreenBackground.xnb</Output>
+      <Time>2010-10-07T02:21:46.36875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tilesetTexture1.png</Source>
+      <Name>tilesetTexture1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\tilesetTexture1.xnb</Output>
+      <Time>2010-10-09T00:21:26.67245+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tileset2.png</Source>
+      <Name>tileset2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\tileset2.xnb</Output>
+      <Time>2010-10-09T00:21:29.72245+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\malefighter.png</Source>
+      <Name>Sprites\malefighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Sprites\malefighter.xnb</Output>
+      <Time>2010-10-20T19:57:49.071+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\nuuskamuikkunen.png</Source>
+      <Name>Sprites\nuuskamuikkunen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Sprites\nuuskamuikkunen.xnb</Output>
+      <Time>2010-10-11T00:43:18.66175+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\leftarrow.png</Source>
+      <Name>Controls\leftarrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Controls\leftarrow.xnb</Output>
+      <Time>2010-10-11T20:20:00.727+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\rightarrow.png</Source>
+      <Name>Controls\rightarrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Controls\rightarrow.xnb</Output>
+      <Time>2010-10-11T20:20:00.756+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\cursor.png</Source>
+      <Name>GUI\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\GUI\cursor.xnb</Output>
+      <Time>2010-10-11T21:37:13.342+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\textbox.png</Source>
+      <Name>GUI\textbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\GUI\textbox.xnb</Output>
+      <Time>2010-10-11T23:27:55.749+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\blackbackground.png</Source>
+      <Name>GUI\blackbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\GUI\blackbackground.xnb</Output>
+      <Time>2010-10-11T23:07:12.477+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Tileset\landscape.png</Source>
+      <Name>Tileset\landscape</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Tileset\landscape.xnb</Output>
+      <Time>2010-10-13T23:30:04.64195+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Tileset\tileset1.png</Source>
+      <Name>Tileset\tileset1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Tileset\tileset1.xnb</Output>
+      <Time>2010-10-14T00:01:23.60395+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\grass.png</Source>
+      <Name>images\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\grass.xnb</Output>
+      <Time>2010-10-18T01:39:39.593+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\structuretest6.png</Source>
+      <Name>images\structuretest6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\structuretest6.xnb</Output>
+      <Time>2010-10-18T01:39:39.599+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\castle.png</Source>
+      <Name>images\castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\castle.xnb</Output>
+      <Time>2010-10-18T20:38:26.193+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\grass3.png</Source>
+      <Name>images\grass3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\grass3.xnb</Output>
+      <Time>2010-10-18T20:38:26.802+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\house.png</Source>
+      <Name>images\house</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\house.xnb</Output>
+      <Time>2010-10-18T20:38:28.01+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tree.png</Source>
+      <Name>images\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\tree.xnb</Output>
+      <Time>2010-10-18T20:38:28.131+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\waterset.png</Source>
+      <Name>images\waterset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\images\waterset.xnb</Output>
+      <Time>2010-10-18T20:38:28.137+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Georgia.spritefont</Source>
+      <Name>Fonts\Georgia</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Fonts\Georgia.xnb</Output>
+      <Time>2010-10-07T02:31:10.11875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2010-10-11T23:16:05.344+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame Demo Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-28T23:28:01.374+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,6 @@
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame\bin\x86\Debug\HakaGame.dll
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame\bin\x86\Debug\HakaGame.pdb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame\obj\x86\Debug\HakaGame.dll
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\HakaGame\obj\x86\Debug\HakaGame.pdb

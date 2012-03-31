@@ -1,0 +1,5 @@
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\New2DRPGContent\bin\Zune\Debug\New2DRPGContent.dll
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\New2DRPGContent\bin\Zune\Debug\New2DRPGContent.pdb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\New2DRPGContent\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\New2DRPGContent\obj\Zune\Debug\New2DRPGContent.dll
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\New2DRPGContent\obj\Zune\Debug\New2DRPGContent.pdb

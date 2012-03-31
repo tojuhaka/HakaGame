@@ -1,0 +1,8 @@
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\RRGLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\RRGLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\RRGLibrary\bin\x86\Debug\RRGLibrary.dll
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\RRGLibrary\bin\x86\Debug\RRGLibrary.pdb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\RRGLibrary\bin\x86\Debug\HakaGame.dll
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\RRGLibrary\bin\x86\Debug\HakaGame.pdb
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\RRGLibrary\obj\x86\Debug\RRGLibrary.dll
+C:\Users\tojuhaka\Documents\Visual Studio 2008\Projects\HakaGame\RRGLibrary\obj\x86\Debug\RRGLibrary.pdb
